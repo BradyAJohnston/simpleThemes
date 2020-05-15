@@ -1,0 +1,9 @@
+Package: simpleThemes
+Title: Simple Themes For GGPLOT2
+Version: 0.1.0
+Authors@R: person("Brady", "Johnston", email = "brady.johnston@research.uwa.edu.au",
+                  role = c("aut", "cre"))
+Description: Contains some themes to be applied to ggplot, creation of some clean dark themes and light themes for presentations.
+Depends: R (>= 3.1.0)
+License: What license is it under?
+LazyData: true
