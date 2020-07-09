@@ -5,7 +5,7 @@
 #' @param right.strip Char for label of right strip.
 #' @param strip.fill Colour value for fill of strips. (Default = "gray85")
 #' @param strip.col Colour value for colour of ourtline for strip. Defatults to "NA".
-#' @keywords strip, ggplot, facet
+#' @keywords strip ggplot facet
 #' @export
 #' @examples
 #' p2 <- ggplot(CO2, aes(conc, uptake, colour = Plant)) +
