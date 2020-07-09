@@ -7,4 +7,4 @@ Description: Contains some themes to be applied to ggplot, creation of some clea
 Depends: R (>= 3.1.0)
 License: What license is it under?
 LazyData: true
-RoxygenNote: 7.1.0.9000
+RoxygenNote: 7.1.1
