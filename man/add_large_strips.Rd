@@ -32,5 +32,5 @@ facet_grid(cols=vars(Type), rows = vars(Treatment))
 add_large_strips(p2, top.strip = "Plant Type", right.strip = "Treatment")
 }
 \keyword{facet}
-\keyword{ggplot,}
-\keyword{strip,}
+\keyword{ggplot}
+\keyword{strip}
